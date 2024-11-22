@@ -38,9 +38,10 @@ export default {
         defaultNodeBorderWidth: 0,
         defaultNodeShape: 1,
         // 'allowShowMiniToolBar': false,
-        defaultLineTextOffset_y: -2,
-        defaultJunctionPoint: 'lr',
-        defaultLineShape: 1
+        defaultLineShape: 1,
+        defaultNodeWidth: 30,
+        zoomToFitWhenRefresh: true // UI
+        // useAnimationWhenExpanded: true
       }
     }
   },
