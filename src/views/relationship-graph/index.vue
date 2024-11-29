@@ -431,7 +431,7 @@ export default {
         nodes: [
           {
             id: '1',
-            text: 'Node-1',
+            text: 'Node-3331',
             data: { myicon: 'el-icon-star-on', ids: [5] }
           }
           // { id: '4', text: '节点-4', myicon: 'el-icon-star-on' },
